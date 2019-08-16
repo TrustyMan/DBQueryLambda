@@ -1,0 +1,6 @@
+{
+    "dbhost"     : "ec2-3-220-222-14.compute-1.amazonaws.com",
+    "dbuser"     : "jeanmarc",
+    "dbpassword" : "Theo2013.",
+    "dbname"     : "foo"
+}
